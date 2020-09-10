@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bluegun/static/css/main.54a0cdb6.chunk.css",
+    "main.js": "/bluegun/static/js/main.6bb2e052.chunk.js",
+    "main.js.map": "/bluegun/static/js/main.6bb2e052.chunk.js.map",
+    "runtime-main.js": "/bluegun/static/js/runtime-main.2ce39020.js",
+    "runtime-main.js.map": "/bluegun/static/js/runtime-main.2ce39020.js.map",
+    "static/js/2.a62bf6b9.chunk.js": "/bluegun/static/js/2.a62bf6b9.chunk.js",
+    "static/js/2.a62bf6b9.chunk.js.map": "/bluegun/static/js/2.a62bf6b9.chunk.js.map",
+    "index.html": "/bluegun/index.html",
+    "precache-manifest.ebfca416ad95f3c5b3b65d5fba51051e.js": "/bluegun/precache-manifest.ebfca416ad95f3c5b3b65d5fba51051e.js",
+    "service-worker.js": "/bluegun/service-worker.js",
+    "static/css/main.54a0cdb6.chunk.css.map": "/bluegun/static/css/main.54a0cdb6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ce39020.js",
+    "static/js/2.a62bf6b9.chunk.js",
+    "static/css/main.54a0cdb6.chunk.css",
+    "static/js/main.6bb2e052.chunk.js"
+  ]
+}
